@@ -4,3 +4,10 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+
+ml_venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
