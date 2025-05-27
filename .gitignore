@@ -5,3 +5,4 @@ __pycache__/
 *.pyd
 .env
 **/datasetts/*
+/notebooks/tensorflow/18_transfer_learning/datasets
