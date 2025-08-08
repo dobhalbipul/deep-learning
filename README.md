@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Bipul Dobhal**
 - GitHub: [@dobhalbipul](https://github.com/dobhalbipul)
-- Email: [your-email@example.com]
+- Email: [dobhal.bipul@gmail.com]
 
 ## 🔗 Useful Resources
 
